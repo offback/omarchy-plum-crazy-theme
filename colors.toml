@@ -1,0 +1,37 @@
+# Plum Crazy — 1970 Plymouth Hemi 'Cuda 440-6
+# Plum Crazy (Mopar High Impact)
+#
+# accent #b06cf5 is the paint colour; the surfaces around it are the
+# same hue taken down to near-black.
+
+mode = "dark"
+accent = "#b06cf5"
+
+selection = "#33184d"
+muted = "#6b5486"
+background = "#1c1030"
+
+dark_background = "#150b24"
+darker_background = "#0e0718"
+lighter_background = "#291741"
+foreground = "#dcc9f0"
+
+dark_foreground = "#8a76a0"
+light_foreground = "#e9dcf8"
+bright_foreground = "#f4ecfc"
+red = "#ff6b81"
+
+yellow = "#f0c04a"
+orange = "#ff9a5c"
+green = "#62d97a"
+cyan = "#4fd6c8"
+blue = "#7aa2f7"
+magenta = "#c47ef5"
+brown = "#7d5a3c"
+bright_red = "#ff8fa3"
+bright_yellow = "#ffd76e"
+bright_orange = "#ffb47d"
+bright_green = "#8ce4a2"
+bright_cyan = "#7fe4d8"
+bright_blue = "#9cbcff"
+bright_magenta = "#d9a4fb"
